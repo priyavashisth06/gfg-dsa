@@ -84,5 +84,3 @@ GFG-POTD/
 
 🌟 Keep Grinding • Keep Growing 🚀
 ```
-
----
