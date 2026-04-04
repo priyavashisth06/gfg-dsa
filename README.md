@@ -1,39 +1,88 @@
-# DSA Journey 🚀
 
-A daily log of Data Structures & Algorithms practice problems — primarily from geeksforgeeks.
+```markdown
+# 🚀 GFG POTD | DSA Daily Grind
 
-## 📅 Progress Tracker
+> Code. Solve. Repeat. 🔁
 
-| Day | Date | Topic | Problems Solved |
-|-----|------|-------|----------------|
-| 1 | 01-04-2026 | | Consecutive 1's not allowed
+---
 
-## 📂 Folder Structure
+## 👩‍💻 About This Repo
 
-DSA-Journey/
+Hi, I'm Priya 👋
+This repository is my personal log of solving
+**GeeksforGeeks Problem of the Day (POTD)** every single day.
+
+🎯 Mission: Build strong DSA skills through consistency
+📅 Started on: 01 April 2026
+📈 Goal: Become better than yesterday
+
+---
+
+## 🧠 DSA Coverage
+
+📌 Arrays &nbsp; 📌 Strings &nbsp; 📌 Linked List &nbsp; 📌 Stack & Queue &nbsp; 📌 Trees
+📌 Graphs &nbsp; 📌 Dynamic Programming &nbsp; 📌 Recursion & Backtracking
+📌 Searching & Sorting &nbsp; 📌 Miscellaneous
+
+---
+
+## 📂 Repository Structure
+
+GFG-POTD/
+│
 ├── Arrays/
 ├── Strings/
-├── Linked-List/
+├── LinkedList/
 ├── Stack-Queue/
 ├── Trees/
 ├── Graphs/
 ├── Dynamic-Programming/
+├── Recursion-Backtracking/
 ├── Searching-Sorting/
 └── README.md
+```
 
+---
 
-## 🛠️ Languages Used
-- Python 
+## 📅 Progress Tracker
 
-## 🎯 Goal
-- Solve at least 1 problem daily
-- Cover all major DSA topics
-- Be consistent
+| Day | Date | Topic | Status |
+|-----|------|-------|--------|
+| 01 | 04-04-2026 | | 🔄 In Progress |
 
-## 📌 Resources
-- [GeeksforGeeks](https://www.geeksforgeeks.org//priyavashisth06)
+> 🔄 Updated daily without fail
+
+---
+
+## ⚙️ Workflow
+
+1️⃣ Solve GFG POTD    
+2️⃣ Optimize the solution   
+3️⃣ Push to GitHub    
+4️⃣ Update README
+
+---
+
+## ⚡ Tech Stack
+
+💻 Python &nbsp;|&nbsp; 🧩 GeeksforGeeks &nbsp;|&nbsp; 🛠️ VS Code + Git
+
+---
+
+## 😎 Resources
+
 - [LeetCode](https://leetcode.com/priyavashisth06)
+- [GeeksforGeeks](https://geeksforgeeks.org/priyavashisth06)
 
-## 🙋 Author
-**Priya Vashisth**  
-[GitHub](https://github.com/priyavashisth) • [LinkedIn](https://linkedin.com/in/priyavashisth06)
+---
+
+## 🔥 Mindset
+
+> *"Consistency is what transforms average into excellence."*
+
+---
+
+🌟 Keep Grinding • Keep Growing 🚀
+```
+
+---
