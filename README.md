@@ -48,7 +48,14 @@ GFG-POTD/
 
 | Day | Date | Topic | Status |
 |-----|------|-------|--------|
-| 01 | 04-04-2026 | | 🔄 In Progress |
+| 01 | 01-04-2026 | |✅ Consecutive 1's not allowed |
+| 02 | 02-04-2026 | |✅ Painting the Fence |
+| 03 | 03-04-2026 | |✅ Print Diagonally |
+| 04 | 04-04-2026 | |✅ Grey Code |
+| 05 | 05-04-2026 | |✅ Target Sum |
+| 06 | 06-04-2026 | |✅ Huffman Encoding |
+| 07 | 07-04-2026 | |✅ Stable Marriage Problem |
+| 08 | 08-04-2026 | |⌛🔄️ Updating Soon.. |
 
 > 🔄 Updated daily without fail
 
@@ -83,4 +90,3 @@ GFG-POTD/
 ---
 
 🌟 Keep Grinding • Keep Growing 🚀
-```
