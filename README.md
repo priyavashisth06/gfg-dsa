@@ -87,17 +87,16 @@ GFG-POTD/
 
 ## ⚡ Tech Stack
 
-__💻 Python &nbsp;|&nbsp; 🧩 GeeksforGeeks &nbsp;|&nbsp; 🛠️ VS Code + Git__
+💻 Python &nbsp;|&nbsp; 🧩 GeeksforGeeks &nbsp;|&nbsp; 🛠️ VS Code + Git
 
 ---
 
 
 ##  Profile / Source 🔗😎
 
-- __GFG Profile: [Priya Vashisth](https://www.geeksforgeeks.org/profile/priyavashisth06)__
-- __Source: [GeeksforGeeks Problem of the Day](https://www.geeksforgeeks.org/problem-of-the-day)__
+- GFG Profile: [Priya Vashisth](https://www.geeksforgeeks.org/profile/priyavashisth06)
+- Source: [GeeksforGeeks Problem of the Day](https://www.geeksforgeeks.org/problem-of-the-day)
 
----
 ---
 
 ## 🔥 Mindset
