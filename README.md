@@ -1,31 +1,45 @@
+<h1 align="center">🚀 GFG POTD | DSA Daily Grind</h1>
 
-```markdown
-# 🚀 GFG POTD | DSA Daily Grind
+<p align="center">
+  <img src="https://img.shields.io/badge/Consistency-Daily-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-DSA-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Started-01--04--2026-green?style=for-the-badge" />
+  <a href="https://www.geeksforgeeks.org/profile/priyavashisth06">
+    <img src="https://img.shields.io/badge/GFG-Profile-brightgreen?style=for-the-badge" />
+  </a>
+</p>
 
-> Code. Solve. Repeat. 🔁
+<p align="center">
+  Code. Solve. Repeat. 🔁
+</p>
 
 ---
 
 ## 👩‍💻 About This Repo
 
-Hi, I'm Priya 👋
-This repository is my personal log of solving
-**GeeksforGeeks Problem of the Day (POTD)** every single day.
+This repository is my personal log of solving **GeeksforGeeks Problem of the Day (POTD)** regularly to improve my **Data Structures and Algorithms** skills.
 
-🎯 Mission: Build strong DSA skills through consistency
-📅 Started on: 01 April 2026
-📈 Goal: Become better than yesterday
+- 🎯 Mission: Build strong DSA skills through consistency  
+- 📅 Started on: 01 April 2026  
+- 📈 Goal: Become better than yesterday  
 
 ---
 
 ## 🧠 DSA Coverage
-
-📌 Arrays &nbsp; 📌 Strings &nbsp; 📌 Linked List &nbsp; 📌 Stack & Queue &nbsp; 📌 Trees
-📌 Graphs &nbsp; 📌 Dynamic Programming &nbsp; 📌 Recursion & Backtracking
-📌 Searching & Sorting &nbsp; 📌 Miscellaneous
+- 📌 Arrays &nbsp; 
+- 📌 Strings &nbsp; 
+- 📌 Linked List &nbsp; 
+- 📌 Stack & Queue &nbsp; 
+- 📌 Trees
+- 📌 Graphs &nbsp; 
+- 📌 Dynamic Programming &nbsp; 
+- 📌 Recursion & Backtracking
+- 📌 Searching & Sorting &nbsp; 
+- 📌 Miscellaneous
 
 ---
 
+```markdown
 ## 📂 Repository Structure
 
 GFG-POTD/
@@ -42,25 +56,25 @@ GFG-POTD/
 └── README.md
 ```
 
----
 
 ## 📅 Progress Tracker
 
-| Day | Date | Topic | Status |
-|-----|------|-------|--------|
-| 01 | 01-04-2026 | |✅ Consecutive 1's not allowed |
-| 02 | 02-04-2026 | |✅ Painting the Fence |
-| 03 | 03-04-2026 | |✅ Print Diagonally |
-| 04 | 04-04-2026 | |✅ Grey Code |
-| 05 | 05-04-2026 | |✅ Target Sum |
-| 06 | 06-04-2026 | |✅ Huffman Encoding |
-| 07 | 07-04-2026 | |✅ Stable Marriage Problem |
-| 08 | 08-04-2026 | | Segregate 0s and 1 |
-| 09 | 09-04-2026 | |⌛🔄️ Updating Soon.. |
+| Day | Date | Source | Problem | Status |
+|-----|------|-------|--------|--------|
+| 01 | 01-04-2026 | [Link](https://www.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912/1) | Consecutive 1's not allowed | ✅ |
+| 02 | 02-04-2026 | [Link](https://www.geeksforgeeks.org/problems/painting-the-fence3727/1) | Painting the Fence | ✅ |
+| 03 | 03-04-2026 | [Link](https://www.geeksforgeeks.org/problems/print-diagonally4331/1) | Print Diagonally | ✅ |
+| 04 | 04-04-2026 | [Link](https://www.geeksforgeeks.org/problems/gray-code-1611215248/1) | Grey Code | ✅ |
+| 05 | 05-04-2026 | [Link](https://www.geeksforgeeks.org/problems/target-sum-1626326450/1) | Target Sum | ✅ |
+| 06 | 06-04-2026 | [Link](https://www.geeksforgeeks.org/problems/huffman-encoding3345/1) | Huffman Encoding | ✅ |
+| 07 | 07-04-2026 | [Link](https://www.geeksforgeeks.org/problems/stable-marriage-problem/1) | Stable Marriage Problem | ✅ |
+| 08 | 08-04-2026 | [Link](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) | Segregate 0s and 1 | ✅ |
+| 09 | 09-04-2026 | [Link]() |⌛🔄️ Updating Soon.. |
 
 > 🔄 Updated daily without fail
 
 ---
+
 
 ## ⚙️ Workflow
 
@@ -73,15 +87,17 @@ GFG-POTD/
 
 ## ⚡ Tech Stack
 
-💻 Python &nbsp;|&nbsp; 🧩 GeeksforGeeks &nbsp;|&nbsp; 🛠️ VS Code + Git
+__💻 Python &nbsp;|&nbsp; 🧩 GeeksforGeeks &nbsp;|&nbsp; 🛠️ VS Code + Git__
 
 ---
 
-## 😎 Resources
 
-- [LeetCode](https://leetcode.com/priyavashisth06)
-- [GeeksforGeeks](https://geeksforgeeks.org/priyavashisth06)
+##  Profile / Source 🔗😎
 
+- __GFG Profile: [Priya Vashisth](https://www.geeksforgeeks.org/profile/priyavashisth06)__
+- __Source: [GeeksforGeeks Problem of the Day](https://www.geeksforgeeks.org/problem-of-the-day)__
+
+---
 ---
 
 ## 🔥 Mindset
