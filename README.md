@@ -55,7 +55,8 @@ GFG-POTD/
 | 05 | 05-04-2026 | |✅ Target Sum |
 | 06 | 06-04-2026 | |✅ Huffman Encoding |
 | 07 | 07-04-2026 | |✅ Stable Marriage Problem |
-| 08 | 08-04-2026 | |⌛🔄️ Updating Soon.. |
+| 08 | 08-04-2026 | | Segregate 0s and 1 |
+| 09 | 09-04-2026 | |⌛🔄️ Updating Soon.. |
 
 > 🔄 Updated daily without fail
 
