@@ -39,24 +39,6 @@ This repository is my personal log of solving **GeeksforGeeks Problem of the Day
 
 ---
 
-```markdown
-## 📂 Repository Structure
-
-GFG-POTD/
-│
-├── Arrays/
-├── Strings/
-├── LinkedList/
-├── Stack-Queue/
-├── Trees/
-├── Graphs/
-├── Dynamic-Programming/
-├── Recursion-Backtracking/
-├── Searching-Sorting/
-└── README.md
-```
-
-
 ## 📅 Progress Tracker
 
 | Day | Date | Source | Problem | Status |
@@ -69,7 +51,8 @@ GFG-POTD/
 | 06 | 06-04-2026 | [Link](https://www.geeksforgeeks.org/problems/huffman-encoding3345/1) | Huffman Encoding | ✅ |
 | 07 | 07-04-2026 | [Link](https://www.geeksforgeeks.org/problems/stable-marriage-problem/1) | Stable Marriage Problem | ✅ |
 | 08 | 08-04-2026 | [Link](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) | Segregate 0s and 1 | ✅ |
-| 09 | 09-04-2026 | [Link]() |⌛🔄️ Updating Soon.. |
+| 09 | 09-04-2026 | [Link](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-arrays-with-duplicate-elements/1) | Intersection of Two Sorted Arrays|
+ | 10 | 10-04-2026 | [Link]() |⌛🔄️ Updating Soon..|
 
 > 🔄 Updated daily without fail
 
