@@ -53,7 +53,8 @@ This repository is my personal log of solving **GeeksforGeeks Problem of the Day
 | 08 | 08-04-2026 | [Link](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) | Segregate 0s and 1 | ✅ |
 | 09 | 09-04-2026 | [Link](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-arrays-with-duplicate-elements/1) | Intersection of Two Sorted Arrays| ✅ |
 | 10 | 10-04-2026 | [Link](https://www.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1) | Sorted subsequence of size 3 | ✅ |
-| 11 | 11-04-2026 | [Link]() | ⌛🔄️ Updating Soon.. |
+| 11 | 11-04-2026 | [Link](https://www.geeksforgeeks.org/problems/count-increasing-subarrays5301/1) | Count increasing Subarrays | ✅ |
+| 12 | 12-04-2026 | [Link]() | ⌛🔄️ Updating Soon.. |
 
 > 🔄 Updated daily without fail
 
