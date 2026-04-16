@@ -41,20 +41,25 @@ This repository is my personal log of solving **GeeksforGeeks Problem of the Day
 
 ## 📅 Progress Tracker
 
-| Day | Date | Source | Problem | Status |
+| Day | Date | Problem | Status | Source |
 |-----|------|-------|--------|--------|
-| 01 | 01-04-2026 | [Link](https://www.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912/1) | Consecutive 1's not allowed | ✅ |
-| 02 | 02-04-2026 | [Link](https://www.geeksforgeeks.org/problems/painting-the-fence3727/1) | Painting the Fence | ✅ |
-| 03 | 03-04-2026 | [Link](https://www.geeksforgeeks.org/problems/print-diagonally4331/1) | Print Diagonally | ✅ |
-| 04 | 04-04-2026 | [Link](https://www.geeksforgeeks.org/problems/gray-code-1611215248/1) | Grey Code | ✅ |
-| 05 | 05-04-2026 | [Link](https://www.geeksforgeeks.org/problems/target-sum-1626326450/1) | Target Sum | ✅ |
-| 06 | 06-04-2026 | [Link](https://www.geeksforgeeks.org/problems/huffman-encoding3345/1) | Huffman Encoding | ✅ |
-| 07 | 07-04-2026 | [Link](https://www.geeksforgeeks.org/problems/stable-marriage-problem/1) | Stable Marriage Problem | ✅ |
-| 08 | 08-04-2026 | [Link](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) | Segregate 0s and 1 | ✅ |
-| 09 | 09-04-2026 | [Link](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-arrays-with-duplicate-elements/1) | Intersection of Two Sorted Arrays| ✅ |
-| 10 | 10-04-2026 | [Link](https://www.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1) | Sorted subsequence of size 3 | ✅ |
-| 11 | 11-04-2026 | [Link](https://www.geeksforgeeks.org/problems/count-increasing-subarrays5301/1) | Count increasing Subarrays | ✅ |
-| 12 | 12-04-2026 | [Link]() | ⌛🔄️ Updating Soon.. |
+| 01 | 01-04-2026 | Consecutive 1's not allowed | ✅ | [Link](https://www.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912/1) |
+| 02 | 02-04-2026 | Painting the Fence | ✅ | [Link](https://www.geeksforgeeks.org/problems/painting-the-fence3727/1) | 
+| 03 | 03-04-2026 | Print Diagonally | ✅ | [Link](https://www.geeksforgeeks.org/problems/print-diagonally4331/1) |
+| 04 | 04-04-2026 | Grey Code | ✅ | [Link](https://www.geeksforgeeks.org/problems/gray-code-1611215248/1) |
+| 05 | 05-04-2026 | Target Sum | ✅ | [Link](https://www.geeksforgeeks.org/problems/target-sum-1626326450/1) |
+| 06 | 06-04-2026 | Huffman Encoding | ✅ | [Link](https://www.geeksforgeeks.org/problems/huffman-encoding3345/1) |
+| 07 | 07-04-2026 | Stable Marriage Problem | ✅ | [Link](https://www.geeksforgeeks.org/problems/stable-marriage-problem/1) |
+| 08 | 08-04-2026 | Segregate 0s and 1 | ✅ | [Link](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) |
+| 09 | 09-04-2026 | Intersection of Two Sorted Arrays| ✅ | [Link](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-arrays-with-duplicate-elements/1) |
+| 10 | 10-04-2026 | Sorted subsequence of size 3 | ✅ | [Link](https://www.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1) |
+| 11 | 11-04-2026 | Count increasing Subarrays | ✅ | [Link](https://www.geeksforgeeks.org/problems/count-increasing-subarrays5301/1) |
+| 12 | 12-04-2026 |Toeplitz matrix | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/toeplitz-matrix/1)|
+| 13 | 13-04-2026 |Next Smallest Palindrome| ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/next-smallest-palindrome4740/1)|
+| 14 | 14-04-2026 |Remove Spaces| ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/remove-spaces0128/1)|
+| 15 | 15-04-2026 |URLify a given string| ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/urlify-a-given-string--141625/1)|
+| 16 | 16-04-2026 |Implement Atoi| ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/implement-atoi/1)|
+| 17 | 17-04-2026 | [Link]() | ⌛🔄️ Updating Soon.. |
 
 > 🔄 Updated daily without fail
 
