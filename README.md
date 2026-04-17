@@ -54,12 +54,13 @@ This repository is my personal log of solving **GeeksforGeeks Problem of the Day
 | 09 | 09-04-2026 | Intersection of Two Sorted Arrays| ✅ | [Link](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-arrays-with-duplicate-elements/1) |
 | 10 | 10-04-2026 | Sorted subsequence of size 3 | ✅ | [Link](https://www.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1) |
 | 11 | 11-04-2026 | Count increasing Subarrays | ✅ | [Link](https://www.geeksforgeeks.org/problems/count-increasing-subarrays5301/1) |
-| 12 | 12-04-2026 |Toeplitz matrix | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/toeplitz-matrix/1)|
-| 13 | 13-04-2026 |Next Smallest Palindrome| ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/next-smallest-palindrome4740/1)|
-| 14 | 14-04-2026 |Remove Spaces| ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/remove-spaces0128/1)|
-| 15 | 15-04-2026 |URLify a given string| ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/urlify-a-given-string--141625/1)|
-| 16 | 16-04-2026 |Implement Atoi| ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/implement-atoi/1)|
-| 17 | 17-04-2026 | [Link]() | ⌛🔄️ Updating Soon.. |
+| 12 | 12-04-2026 | Toeplitz matrix | ✅ | [Link](https://www.geeksforgeeks.org/problems/toeplitz-matrix/1)|
+| 13 | 13-04-2026 | Next Smallest Palindrome | ✅ | [Link](https://www.geeksforgeeks.org/problems/next-smallest-palindrome4740/1)|
+| 14 | 14-04-2026 | Remove Spaces | ✅ | [Link](https://www.geeksforgeeks.org/problems/remove-spaces0128/1)|
+| 15 | 15-04-2026 | URLify a given string | ✅ | [Link](https://www.geeksforgeeks.org/problems/urlify-a-given-string--141625/1)|
+| 16 | 16-04-2026 | Implement Atoi | ✅ | [Link](https://www.geeksforgeeks.org/problems/implement-atoi/1)|
+| 17 | 17-04-2026 | Anagram Palindrome | ✅ | [Link](https://www.geeksforgeeks.org/problems/anagram-palindrome4720/1) |
+| 18 | 18-04-2026 |  |  | ⌛🔄️ Updating Soon.. |
 
 > 🔄 Updated daily without fail
 
