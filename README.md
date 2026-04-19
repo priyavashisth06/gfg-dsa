@@ -60,7 +60,10 @@ This repository is my personal log of solving **GeeksforGeeks Problem of the Day
 | 15 | 15-04-2026 | URLify a given string | ✅ | [Link](https://www.geeksforgeeks.org/problems/urlify-a-given-string--141625/1)|
 | 16 | 16-04-2026 | Implement Atoi | ✅ | [Link](https://www.geeksforgeeks.org/problems/implement-atoi/1)|
 | 17 | 17-04-2026 | Anagram Palindrome | ✅ | [Link](https://www.geeksforgeeks.org/problems/anagram-palindrome4720/1) |
-| 18 | 18-04-2026 |  |  | ⌛🔄️ Updating Soon.. |
+| 18 | 18-04-2026 | Flip to Maximize 1s | ✅ | [Link](https://www.geeksforgeeks.org/problems/flip-bits0240/1) |
+| 19 | 19-04-2026 | Check for Power | ✅ | [Link](https://www.geeksforgeeks.org/problems/check-if-a-number-is-power-of-another-number5442/1) |
+| 20 | 20-04-2026 |  |  | ⌛🔄️ Updating Soon.. |
+
 
 > 🔄 Updated daily without fail
 
