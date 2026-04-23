@@ -62,8 +62,11 @@ This repository is my personal log of solving **GeeksforGeeks Problem of the Day
 | 17 | 17-04-2026 | Anagram Palindrome | ✅ | [Link](https://www.geeksforgeeks.org/problems/anagram-palindrome4720/1) |
 | 18 | 18-04-2026 | Flip to Maximize 1s | ✅ | [Link](https://www.geeksforgeeks.org/problems/flip-bits0240/1) |
 | 19 | 19-04-2026 | Check for Power | ✅ | [Link](https://www.geeksforgeeks.org/problems/check-if-a-number-is-power-of-another-number5442/1) |
-| 20 | 20-04-2026 |  |  | ⌛🔄️ Updating Soon.. |
-
+| 20 | 20-04-2026 | Count Derangements | ✅ | [Link](https://www.geeksforgeeks.org/problems/dearrangement-of-balls0918/1) |
+| 21 | 21-04-2026 | Two water Jug problem | ✅ | [Link](https://www.geeksforgeeks.org/problems/two-water-jug-problem3402/1) |
+| 22 | 22-04-2026 | Mean of range in array | ✅ | [Link](https://www.geeksforgeeks.org/problems/mean-of-range-in-array2123/1) |
+| 23 | 23-04-2026 | Two Equal Sum Subarrays | ✅ | [Link](https://www.geeksforgeeks.org/problems/split-an-array-into-two-equal-sum-subarrays/1) |
+| 24 | 24-04-2026 |  |  | ⌛🔄️ Updating Soon.. |
 
 > 🔄 Updated daily without fail
 
