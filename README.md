@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejl4NTZ1Z3Zjb2Fzc240N3A5eGRxdmhib3AzaGh4bDI5OXd2dXNmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300">
+</p>
+
+<p align="center">
   Code. Solve. Repeat. 🔁
 </p>
 
@@ -26,16 +30,16 @@ This repository is my personal log of solving **GeeksforGeeks Problem of the Day
 ---
 
 ## 🧠 DSA Coverage
-- 📌 Arrays &nbsp; 
-- 📌 Strings &nbsp; 
-- 📌 Linked List &nbsp; 
-- 📌 Stack & Queue &nbsp; 
-- 📌 Trees
-- 📌 Graphs &nbsp; 
-- 📌 Dynamic Programming &nbsp; 
-- 📌 Recursion & Backtracking
-- 📌 Searching & Sorting &nbsp; 
-- 📌 Miscellaneous
+📌 Arrays  
+📌 Strings
+📌 Linked List
+📌 Stack & Queue
+📌 Trees
+📌 Graphs
+📌 Dynamic Programming 
+📌 Recursion & Backtracking
+📌 Searching & Sorting
+📌 Miscellaneous
 
 ---
 
@@ -43,29 +47,29 @@ This repository is my personal log of solving **GeeksforGeeks Problem of the Day
 
 | Day | Date | Problem | Status | Source |
 |-----|------|-------|--------|--------|
-| 01 | 01-04-2026 | Consecutive 1's not allowed | ✅ | [Link](https://www.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912/1) |
-| 02 | 02-04-2026 | Painting the Fence | ✅ | [Link](https://www.geeksforgeeks.org/problems/painting-the-fence3727/1) | 
-| 03 | 03-04-2026 | Print Diagonally | ✅ | [Link](https://www.geeksforgeeks.org/problems/print-diagonally4331/1) |
-| 04 | 04-04-2026 | Grey Code | ✅ | [Link](https://www.geeksforgeeks.org/problems/gray-code-1611215248/1) |
-| 05 | 05-04-2026 | Target Sum | ✅ | [Link](https://www.geeksforgeeks.org/problems/target-sum-1626326450/1) |
-| 06 | 06-04-2026 | Huffman Encoding | ✅ | [Link](https://www.geeksforgeeks.org/problems/huffman-encoding3345/1) |
-| 07 | 07-04-2026 | Stable Marriage Problem | ✅ | [Link](https://www.geeksforgeeks.org/problems/stable-marriage-problem/1) |
-| 08 | 08-04-2026 | Segregate 0s and 1 | ✅ | [Link](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) |
-| 09 | 09-04-2026 | Intersection of Two Sorted Arrays| ✅ | [Link](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-arrays-with-duplicate-elements/1) |
-| 10 | 10-04-2026 | Sorted subsequence of size 3 | ✅ | [Link](https://www.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1) |
-| 11 | 11-04-2026 | Count increasing Subarrays | ✅ | [Link](https://www.geeksforgeeks.org/problems/count-increasing-subarrays5301/1) |
-| 12 | 12-04-2026 | Toeplitz matrix | ✅ | [Link](https://www.geeksforgeeks.org/problems/toeplitz-matrix/1)|
-| 13 | 13-04-2026 | Next Smallest Palindrome | ✅ | [Link](https://www.geeksforgeeks.org/problems/next-smallest-palindrome4740/1)|
-| 14 | 14-04-2026 | Remove Spaces | ✅ | [Link](https://www.geeksforgeeks.org/problems/remove-spaces0128/1)|
-| 15 | 15-04-2026 | URLify a given string | ✅ | [Link](https://www.geeksforgeeks.org/problems/urlify-a-given-string--141625/1)|
-| 16 | 16-04-2026 | Implement Atoi | ✅ | [Link](https://www.geeksforgeeks.org/problems/implement-atoi/1)|
-| 17 | 17-04-2026 | Anagram Palindrome | ✅ | [Link](https://www.geeksforgeeks.org/problems/anagram-palindrome4720/1) |
-| 18 | 18-04-2026 | Flip to Maximize 1s | ✅ | [Link](https://www.geeksforgeeks.org/problems/flip-bits0240/1) |
-| 19 | 19-04-2026 | Check for Power | ✅ | [Link](https://www.geeksforgeeks.org/problems/check-if-a-number-is-power-of-another-number5442/1) |
-| 20 | 20-04-2026 | Count Derangements | ✅ | [Link](https://www.geeksforgeeks.org/problems/dearrangement-of-balls0918/1) |
-| 21 | 21-04-2026 | Two water Jug problem | ✅ | [Link](https://www.geeksforgeeks.org/problems/two-water-jug-problem3402/1) |
-| 22 | 22-04-2026 | Mean of range in array | ✅ | [Link](https://www.geeksforgeeks.org/problems/mean-of-range-in-array2123/1) |
-| 23 | 23-04-2026 | Two Equal Sum Subarrays | ✅ | [Link](https://www.geeksforgeeks.org/problems/split-an-array-into-two-equal-sum-subarrays/1) |
+| 01 | 01-04-2026 | Consecutive 1's not allowed | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912/1) |
+| 02 | 02-04-2026 | Painting the Fence | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/painting-the-fence3727/1) | 
+| 03 | 03-04-2026 | Print Diagonally | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/print-diagonally4331/1) |
+| 04 | 04-04-2026 | Grey Code | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/gray-code-1611215248/1) |
+| 05 | 05-04-2026 | Target Sum | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/target-sum-1626326450/1) |
+| 06 | 06-04-2026 | Huffman Encoding | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/huffman-encoding3345/1) |
+| 07 | 07-04-2026 | Stable Marriage Problem | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/stable-marriage-problem/1) |
+| 08 | 08-04-2026 | Segregate 0s and 1 | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) |
+| 09 | 09-04-2026 | Intersection of Two Sorted Arrays| ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-arrays-with-duplicate-elements/1) |
+| 10 | 10-04-2026 | Sorted subsequence of size 3 | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1) |
+| 11 | 11-04-2026 | Count increasing Subarrays | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/count-increasing-subarrays5301/1) |
+| 12 | 12-04-2026 | Toeplitz matrix | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/toeplitz-matrix/1)|
+| 13 | 13-04-2026 | Next Smallest Palindrome | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/next-smallest-palindrome4740/1)|
+| 14 | 14-04-2026 | Remove Spaces | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/remove-spaces0128/1)|
+| 15 | 15-04-2026 | URLify a given string | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/urlify-a-given-string--141625/1)|
+| 16 | 16-04-2026 | Implement Atoi | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/implement-atoi/1)|
+| 17 | 17-04-2026 | Anagram Palindrome | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/anagram-palindrome4720/1) |
+| 18 | 18-04-2026 | Flip to Maximize 1s | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/flip-bits0240/1) |
+| 19 | 19-04-2026 | Check for Power | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/check-if-a-number-is-power-of-another-number5442/1) |
+| 20 | 20-04-2026 | Count Derangements | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/dearrangement-of-balls0918/1) |
+| 21 | 21-04-2026 | Two water Jug problem | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/two-water-jug-problem3402/1) |
+| 22 | 22-04-2026 | Mean of range in array | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/mean-of-range-in-array2123/1) |
+| 23 | 23-04-2026 | Two Equal Sum Subarrays | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/split-an-array-into-two-equal-sum-subarrays/1) |
 | 24 | 24-04-2026 | Buildings with Sunlight | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/buildings-receiving-sunlight3032/1)|
 | 25 | 25-04-2026 | Opposite Sign Pair Reduction | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/asteroid-collision/1)|
 | 26 | 26-04-2026 | Common in 3 Sorted Arrays | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/common-elements1132/1)| 
