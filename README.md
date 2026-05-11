@@ -66,7 +66,14 @@ This repository is my personal log of solving **GeeksforGeeks Problem of the Day
 | 21 | 21-04-2026 | Two water Jug problem | ✅ | [Link](https://www.geeksforgeeks.org/problems/two-water-jug-problem3402/1) |
 | 22 | 22-04-2026 | Mean of range in array | ✅ | [Link](https://www.geeksforgeeks.org/problems/mean-of-range-in-array2123/1) |
 | 23 | 23-04-2026 | Two Equal Sum Subarrays | ✅ | [Link](https://www.geeksforgeeks.org/problems/split-an-array-into-two-equal-sum-subarrays/1) |
-| 24 | 24-04-2026 |  |  | ⌛🔄️ Updating Soon.. |
+| 24 | 24-04-2026 | Buildings with Sunlight | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/buildings-receiving-sunlight3032/1)|
+| 25 | 25-04-2026 | Opposite Sign Pair Reduction | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/asteroid-collision/1)|
+| 26 | 26-04-2026 | Common in 3 Sorted Arrays | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/common-elements1132/1)| 
+| 27 | 27-04-2026 | Smallest window containing 0, 1 and 2 | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/smallest-window-containing-0-1-and-2--170637/1)|
+| 28 | 28-04-2026 | Longest Repeating Character Replacement | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/longest-repeating-character-replacement/1)|
+| 29 | 29-04-2026 | Min Swaps to Group 1s | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/minimum-swaps-required-to-group-all-1s-together2451/1)|
+| 30 | 30-04-2026 | Check if an Array is Max Heap | ✅ | [Link🔗](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1)|
+
 
 > 🔄 Updated daily without fail
 
